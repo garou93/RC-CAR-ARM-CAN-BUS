@@ -1,8 +1,11 @@
 ================================================================================
+
 Optimus; Autonomous RC Car Project
 
-"wiki excerpt: Radio/Remote-controlled cars (or RC cars for short) are miniature model cars or trucks that can be controlled from a distance using a specialized transmitter or remote. The term "RC" has been used to mean both "remote controlled" and "radio controlled", where "remote controlled" includes vehicles that are controlled by radio, infrared or a physical wire connection (the latter is now obsolete). "
+* wiki excerpt: Radio/Remote-controlled cars (or RC cars for short) are miniature model cars or trucks that can be controlled from a distance using a specialized transmitter or remote. The term "RC" has been used to mean both "remote controlled" and "radio controlled", where "remote controlled" includes vehicles that are controlled by radio, infrared or a physical wire connection (the latter is now obsolete).
+
 ================================================================================
+
 A self-driving car prototype whose destination is configured over a mobile
 application.
 We use sensors to detect obstacles; GPS and compass to learn the car's
